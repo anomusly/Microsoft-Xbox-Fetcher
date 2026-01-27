@@ -46,7 +46,7 @@ All data saved in clean, categorized files:
 
 **Available Now:** [axilon.mysellauth.com](https://axilon.mysellauth.com)
 
-Contact: [@anomus.ly](https://discord.com/users/1136625769628581928) on Discord
+Contact: [@anomus.ly](https://discord.com/users/1136625769628581928) on Discord!
 
 ---
 
