@@ -1,4 +1,4 @@
-# 🎮 Microsoft/Xbox Fetcher
+# 🎮 Microsoft/Xbox Fetcher [New Version Here](https://axilon.mysellauth.com/)
 
 > **Complete Microsoft & Xbox Account Data Extractor**
 
