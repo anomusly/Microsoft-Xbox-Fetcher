@@ -1,4 +1,4 @@
-# 🎮 Microsoft/Xbox Fetcher [New Version Here](https://axilon.mysellauth.com/)
+# 🎮 Microsoft/Xbox Fetcher [New Version Here](https://shop.axilon.app)
 
 > **Complete Microsoft & Xbox Account Data Extractor**
 
@@ -44,7 +44,7 @@ All data saved in clean, categorized files:
 
 ## 🛒 Get Started
 
-**Available Now:** [axilon.mysellauth.com](https://axilon.mysellauth.com)
+**Available Now:** [https://shop.axilon.app](https://shop.axilon.app)
 
 Contact: [@anomus.ly](https://discord.com/users/1136625769628581928) on Discord!
 
